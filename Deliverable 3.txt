@@ -1,0 +1,22 @@
+-The main challenge I encountered this assignment was the 
+general setup and usage of the unittests. Unittesting is a relatively new
+concept to me, so knowing how to format the tests and how many tests to
+write was the main issue I had. I beleive that the more confident I get,
+and the more practice I have, the less of an issue this will become.
+
+-I think that the requirements were pretty fair and straightforward. 
+However, it would have helped since this was the first use of unittests
+if there was a specific number of tests required, or a certain format,
+just so I can be a bit more prepared for what is expected. That being said,
+figuring it out on my own did add a bit of a challenge.
+
+-I did not really have any challenges with the tools. The unittest's 
+functionality was relatively straight forward and the assigment itself was
+not very complex, so I did not have much difficulty in that regard.
+
+-In order to determine that I had sufficient test cases, I wanted to make
+sure that each criteria was covered at least once. Meaning, I had to cover
+every possible combination (Scalene and right, scalene and not right, 
+isosceles and right, isosceles and not right, equilateral and not right, and
+not a triangle). I knew I was done when every unit test worked and I ran the 
+function using random numbers as well and had no issue.
